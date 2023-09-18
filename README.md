@@ -1,17 +1,19 @@
 ### Objective
 
-Using TypeScript and React, your task is to build a Github User Search Tool.
+Clone this repo to your own profile, then using the UI framework of your choice, your task is to build a Github User Search Tool.
 
 ### Brief
 
 In this challenge, your assignment is to build a Github User Search Tool using the [GitHub users API](https://docs.github.com/en/rest/reference/users#get-a-user). We are looking for a solution that is functionally complete, not pixel-perfect. The design system in the designs folder will give you more information about the various colors, fonts, and styles used in this project.
 
-There is an already-created nextjs app under the `./nextjs` directory, which you should use to develop the solution. It's a bare bones NextJS app with no customization. To get started run the following commands:
+There is an already-created nextjs app under the `./nextjs` directory, which you can optionally use to develop the solution. It's a bare bones NextJS app with no customisation. To get started run the following commands:
 
 ```bash
 cd ./nextjs
 npm run dev
 ```
+
+Alternatively, you can create a pure front-end solution that calls the Github API directly from the page.
 
 ### Tasks
 
@@ -22,8 +24,8 @@ Your users should be able to:
 
 Implement assignment using:
 
-    - Language: **TypeScript**
-    - Framework: **React**
+    - Language: JavaScript or TypeScript
+    - Framework: React, Vue, Angular or other
 
 ### Expected Behaviour
 
@@ -36,7 +38,7 @@ Implement assignment using:
 
 ### Evaluation Criteria
 
-- **TypeScript** best practices
+- JavaScript/TypeScript best practices
 - Show us your work through your commit history
 - We're looking for you to produce working code, with enough room to demonstrate how to structure components in a small program
 - Completeness: Did you complete the features?
@@ -44,10 +46,8 @@ Implement assignment using:
 - Maintainability: Is it written in a clean, maintainable way?
 - Testing: Is the system adequately tested?
 
-### CodeSubmit
+### Submission
 
-Please organize, design, test, and document your code as if it were going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
+Please organise, design, test, and document your code as if it were going into production. After you have finished the assignment, please share a link to your cloned repo.
 
-All the best and happy coding,
-
-The Stickies Team
+All the best and happy coding!
